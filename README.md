@@ -1,2 +1,2 @@
 # Magellan-Robot
-My code for my GPS guided robot
+My code for my Servo controller on my GPS Robot
